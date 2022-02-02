@@ -1,5 +1,6 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
+[![Build Status](https://dev.azure.com/rahmam14/TailSpinMR/_apis/build/status/solarflarefx.ContosoAir?branchName=master)](https://dev.azure.com/rahmam14/TailSpinMR/_build/latest?definitionId=6&branchName=master)
 
 # Microsoft.Github CI Demo
 
